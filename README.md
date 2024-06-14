@@ -2,7 +2,7 @@
 
 <img src='./imgs/banner.png'/>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,bs,js,ts,fb,git,github" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css3,,js,ts,,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
 |                |                     |
